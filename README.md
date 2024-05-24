@@ -32,7 +32,7 @@ cd attendance
 
 pip install opencv-python face_recognition numpy pandas openpyxl
 
-3.Place your reference images in a folder named images within the project directory. Each image file name should be the person's name (e.g., john_doe.jpg).
+3.Please create a image folder and place your reference images in a folder  within the project directory. Each image file name should be the person's name (e.g., john_doe.jpg).
 
 # Usage
 Ensure your webcam is connected and working.
